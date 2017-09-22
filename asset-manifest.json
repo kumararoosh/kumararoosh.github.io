@@ -1,8 +1,12 @@
 {
-  "main.css": "static/css/main.10a0bf7e.css",
-  "main.css.map": "static/css/main.10a0bf7e.css.map",
-  "main.js": "static/js/main.5ef9940e.js",
-  "main.js.map": "static/js/main.5ef9940e.js.map",
-  "static/media/backgrOver.png": "static/media/backgrOver.8087f8b3.png",
-  "static/media/mainlogo.png": "static/media/mainlogo.354abb49.png"
+  "main.css": "static/css/main.a3a26e59.css",
+  "main.css.map": "static/css/main.a3a26e59.css.map",
+  "main.js": "static/js/main.16d46669.js",
+  "main.js.map": "static/js/main.16d46669.js.map",
+  "static/media/backgr1.png": "static/media/backgr1.fc7ea6c2.png",
+  "static/media/jamesspeech.png": "static/media/jamesspeech.c3df4e4e.png",
+  "static/media/mainlogo.png": "static/media/mainlogo.354abb49.png",
+  "static/media/shortlogo.png": "static/media/shortlogo.c62c45fd.png",
+  "static/media/teamgame.png": "static/media/teamgame.eecc124b.png",
+  "static/media/teamgamemobile.png": "static/media/teamgamemobile.164370b0.png"
 }
